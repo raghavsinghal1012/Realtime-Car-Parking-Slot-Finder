@@ -15,7 +15,7 @@ For bird-eye camera view being all the parking slots in a symmetrical shape and 
 
 
 ## How to run the Project
-1. Download both folders from above and save them in your system.
+1. Download "parking side view camera" and "parking bird eye view camera" folders from above and save them in your system.
 2. Download Python 3.7 or above in your system.
 ### Side Camera view
 1. Create a virtual environment in the folder "parking side view camera"
@@ -29,6 +29,7 @@ For bird-eye camera view being all the parking slots in a symmetrical shape and 
         - pip install cvzone
         - python sidecamera.py
         ![Image](https://github.com/raghavsinghal1012/Realtime-Car-Parking-Slot-Finder/blob/main/Images/4.png)
+        ![Image](https://github.com/raghavsinghal1012/Realtime-Car-Parking-Slot-Finder/blob/main/Images/5.png)
         After executting the commands, the program will run.
         - Press "ctrl+c" in the terminal to stop the program
 
@@ -44,5 +45,6 @@ For bird-eye camera view being all the parking slots in a symmetrical shape and 
         - pip install cvzone
         - python birdeyeview.py
         ![Image](https://github.com/raghavsinghal1012/Realtime-Car-Parking-Slot-Finder/blob/main/Images/2.png)
+        ![Image](https://github.com/raghavsinghal1012/Realtime-Car-Parking-Slot-Finder/blob/main/Images/6.png)
         After executting the commands, the program will run.
         - Press "ctrl+c" in the terminal to stop the program
