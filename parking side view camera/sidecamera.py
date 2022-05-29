@@ -85,11 +85,11 @@ while True:
     #imgBlur = imgGray
     # ret, imgThres = cv2.threshold(imgBlur, 150, 255, cv2.THRESH_BINARY)
 
-    val1 = cv2.getTrackbarPos("Val1", "Vals")
-    val2 = cv2.getTrackbarPos("Val2", "Vals")
-    val3 = cv2.getTrackbarPos("Val3", "Vals")
-    if val1 % 2 == 0: val1 += 1
-    if val3 % 2 == 0: val3 += 1
+    #val1 = cv2.getTrackbarPos("Val1", "Vals")
+    #val2 = cv2.getTrackbarPos("Val2", "Vals")
+    #val3 = cv2.getTrackbarPos("Val3", "Vals")
+    #if val1 % 2 == 0: val1 += 1
+    #if val3 % 2 == 0: val3 += 1
     imgThres = cv2.adaptiveThreshold(imgBlur, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C,
                                         cv2.THRESH_BINARY_INV, 43, 20)
     imgThres = cv2.medianBlur(imgThres, 1)
