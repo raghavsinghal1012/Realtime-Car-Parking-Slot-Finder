@@ -4,11 +4,11 @@
 I made a project which is a **Real-Time Car Parking Slot Finder**. In which the mall/restaurant owners, stadium management, etc. can find the empty parking spots in their parking area. With the count of empty parking spots. This will help them in-crowd and time management. This project shows the real-time occupancies of the parking slots and can be used via their surveillance camera.
 
 I made this compiled project in python using:
-**1. OpenCV**
-**2. NumPy**
-**3. Pickle**
-**4. CVzone**
-**5. and many more python libraries**.
+1. OpenCV
+2. NumPy
+3. Pickle
+4. CVzone
+5. and many more python libraries.<br>
 In this project we are going to see two types of views first is the **Side Camera view** and the other is **Bird Eye camera view**.
 
 The main idea to solve this problem is to convert the video into a binary image and count the white pixels of a frame which will be created around a single slot. The slots which will have white pixels less than the threshold white pixels count will be termed as an empty parking slot.
