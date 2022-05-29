@@ -23,9 +23,11 @@ For bird-eye camera view being all the parking slots in a symmetrical shape and 
 ![Image](https://github.com/raghavsinghal1012/Realtime-Car-Parking-Slot-Finder/blob/main/Images/11.png)
 5. Create a virtual environment in the downloaded folder.
 6. Type the following in cmd in order.
-    - virtualenv env
-    - env\Scripts\activate.bat
-    - pip install -r requirements.txt
+    
+    - `virtualenv env`
+    - ```env\Scripts\activate.bat```
+    - `pip install -r requirements.txt`
+    
     ![Image](https://github.com/raghavsinghal1012/Realtime-Car-Parking-Slot-Finder/blob/main/Images/12.png)
 ### Side Camera view
 1. In the same cmd window type the following
@@ -38,7 +40,7 @@ python "parking side view camera\sidecamera.py"
 ### Bird Eye Camera view
 1. In the same cmd window type the following
 ```
-python "parking side view camera\sidecamera.py"
+python "parking bird eye view camera\birdeyeview.py"
 ```
 ![Image](https://github.com/raghavsinghal1012/Realtime-Car-Parking-Slot-Finder/blob/main/Images/14.png)
 2. Press `ctrl+c` in the terminal to stop the program
