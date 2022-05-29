@@ -31,8 +31,11 @@ For bird-eye camera view being all the parking slots in a symmetrical shape and 
         - pip install opencv-python
         - pip install cvzone
         - python sidecamera.py
+        
         ![Image](https://github.com/raghavsinghal1012/Realtime-Car-Parking-Slot-Finder/blob/main/Images/4.png)
+        
         ![Image](https://github.com/raghavsinghal1012/Realtime-Car-Parking-Slot-Finder/blob/main/Images/5.png)
+        
         After executting the commands, the program will run.
         - Press "ctrl+c" in the terminal to stop the program
 
@@ -47,7 +50,10 @@ For bird-eye camera view being all the parking slots in a symmetrical shape and 
         - pip install opencv-python
         - pip install cvzone
         - python birdeyeview.py
+        
         ![Image](https://github.com/raghavsinghal1012/Realtime-Car-Parking-Slot-Finder/blob/main/Images/2.png)
+        
         ![Image](https://github.com/raghavsinghal1012/Realtime-Car-Parking-Slot-Finder/blob/main/Images/6.png)
+        
         After executting the commands, the program will run.
         - Press "ctrl+c" in the terminal to stop the program
