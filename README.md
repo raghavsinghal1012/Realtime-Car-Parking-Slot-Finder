@@ -15,8 +15,9 @@ For bird-eye camera view being all the parking slots in a symmetrical shape and 
 
 
 ## How to run the Project
-1. Download "parking side view camera" and "parking bird eye view camera" folders from above and save them in your system.
+1. Download both folders from above and save them in your system.
 2. Download Python 3.7 or above in your system.
+3. Open cmd and type "pip install virtualenv". After running successfully close the cmd window. 
 ### Side Camera view
 1. Create a virtual environment in the folder "parking side view camera"
     - Open cmd in the respective folder.
